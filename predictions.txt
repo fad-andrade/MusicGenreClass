@@ -1,0 +1,85 @@
+samples/aquele_lugar.mp3
+Reggae: 51.95%
+HipHop: 15.58%
+Disco: 10.39%
+Pop: 9.09%
+Rock: 9.09%
+Country: 3.9%
+
+samples/crossroad.mp3
+Blues: 50.0%
+Classical: 48.21%
+Country: 1.79%
+
+samples/diario_de_um_detento.mp3
+HipHop: 76.67%
+Reggae: 17.33%
+Blues: 2.67%
+Pop: 2.0%
+Disco: 1.33%
+
+samples/is_this_love.mp3
+Reggae: 66.23%
+Pop: 19.48%
+Disco: 5.19%
+HipHop: 3.9%
+Rock: 2.6%
+Classical: 1.3%
+Jazz: 1.3%
+
+samples/like_a_virgin.mp3
+Pop: 83.33%
+Disco: 5.56%
+HipHop: 4.17%
+Reggae: 2.78%
+Jazz: 1.39%
+Metal: 1.39%
+Rock: 1.39%
+
+samples/september.mp3
+Disco: 26.76%
+Pop: 25.35%
+Reggae: 22.54%
+Rock: 18.31%
+HipHop: 4.23%
+Classical: 1.41%
+Country: 1.41%
+
+samples/so_what.mp3
+Jazz: 92.51%
+Classical: 5.88%
+Blues: 1.07%
+HipHop: 0.53%
+
+samples/symphony_n5.mp3
+Classical: 96.4%
+Jazz: 2.7%
+Country: 0.9%
+
+samples/the_trooper.mp3
+Metal: 48.81%
+Rock: 22.62%
+Pop: 21.43%
+HipHop: 5.95%
+Classical: 1.19%
+
+samples/livin_on_love.mp3
+Country: 50.67%
+Rock: 41.33%
+Classical: 2.67%
+Pop: 2.67%
+Disco: 1.33%
+Jazz: 1.33%
+
+samples/dont_stop_me_now.mp3
+Rock: 34.72%
+Metal: 27.78%
+Disco: 13.89%
+HipHop: 6.94%
+Country: 5.56%
+Pop: 5.56%
+Blues: 1.39%
+Classical: 1.39%
+Jazz: 1.39%
+Reggae: 1.39%
+
